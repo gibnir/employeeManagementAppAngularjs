@@ -1,0 +1,34 @@
+[
+{
+"firstName":"John",
+"lastName":"Doe",
+"email":"John@gmail.com",
+"project":"JohnSnow",
+"designation":"Software Engineer",
+"empId":"10001"
+},
+{
+"firstName":"Anna",
+"lastName":"Smith",
+"email":"Anna@gmail.com",
+"project":"dragon",
+"designation":"Software Engineer",
+"empId":"10335"
+},
+{
+"firstName":"Peter",
+"lastName":"Jones",
+"email":"Peter@gmail.com",
+"project":"wsrt",
+"designation":"Software Engineer",
+"empId":"15761"
+},
+{
+"firstName":"Jayaram",
+"lastName":"P",
+"email":"jayaram@gmail.com",
+"project":"javasavvy",
+"designation":"Software Engineer",
+"empId":"10331"
+}
+]
